@@ -1,4 +1,4 @@
-FROM judge0/api-base:0.2.1
+FROM newerjc/buildpack-deps:0.0.1
 #LABEL maintainer="Herman Zvonimir Došilović, hermanz.dosilovic@gmail.com" \
 #      version="1.0.0"
 

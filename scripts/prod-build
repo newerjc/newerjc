@@ -1,1 +1,1 @@
-docker build -t judge0/api .
+docker build -t newerjc/newerjc .

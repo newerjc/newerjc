@@ -1,1 +1,1 @@
-docker build -t newerjc/newerjc .
+docker build -t newerjc/buildpack-deps .
